@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
 Hi, I’m **Kyler Stratton** — a Systems Administrator and Automation Engineer with a passion for building efficient, scalable solutions. I specialize in managing complex **hybrid Azure GCCH environments** across multiple tenants and countries, ensuring seamless integration and compliance.
 
 With years of experience in IT infrastructure, I’ve led a team of developers to design and implement automation strategies that streamline operations, reduce manual workload, and improve system reliability. My work spans across:
